@@ -1,4 +1,4 @@
-# Replication package for paper "Has My Code Been Stolen for Model Training? A Naturalness-Based Approach to Code Contamination Detection"
+# Replication package for paper "Detecting Data Contamination with Data’s Naturalnes and Data Complete"
 
 ![Overview](Overview.PNG)
 
